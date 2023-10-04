@@ -1,0 +1,1 @@
+Structured Query Language (short: SQL) is the standartlanguage for the communication with ralational, twodimensional databases. ^a902a0

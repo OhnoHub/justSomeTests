@@ -1,0 +1,1 @@
+Javascript is a programing or scrippting language. It extends websites with logic. It was designed to dynamically change elements in websites. ^2262b0

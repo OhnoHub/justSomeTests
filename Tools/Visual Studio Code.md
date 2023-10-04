@@ -1,0 +1,1 @@
+It's an IDE, like BRACKETS, to write code or HTML and CSS ^9c3ef8

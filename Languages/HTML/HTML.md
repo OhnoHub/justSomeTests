@@ -1,0 +1,1 @@
+Hypertext Markup Language, short: HTML is all about semantic (are the elements of the website a list, a paragraph, etc). ^9cdfc4

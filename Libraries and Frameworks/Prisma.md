@@ -1,0 +1,1 @@
+I didn' get it totaly, but it seems, that Prisma is a tool for BackendDevelopers, that is used as a bridge between reational databases and opject-oriented-programming. ^212918

@@ -1,0 +1,1 @@
+CSS means Cascading Style Sheet and is responsible for the design of your website (colors, effect, etc) ^57eef0

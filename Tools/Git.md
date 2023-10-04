@@ -1,0 +1,1 @@
+GIT is a free "version control tool", which saves different states of your work. If you are working in groups, multiple persons can work on the same project on different branches whitout overwriting the stuff, a groupmember just done before. ^3fa2cc
